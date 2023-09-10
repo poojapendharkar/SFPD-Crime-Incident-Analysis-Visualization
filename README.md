@@ -6,7 +6,7 @@ The goal of this dashboard is to potentially equip the San Francisco Police Depa
 ## How to Setup the Dashboard
 * Requirements: Power Bi Desktop App, Spyder/Jupyter, Dataset
 * Download the dataset - https://data.sfgov.org/Public-Safety/Police-Department-Incident-Reports-2018-to-Present/wg3w-h783
-* To Create the Dashboard from scratch please check the process in the blog - (Please note it does not cover the basic of Power Bi)
+* To Create the Dashboard from scratch please check the process in the blog - https://penpooja.medium.com/building-a-power-bi-dashboard-data-visualization-project-ae9c8a8ee167 (Please note it does not cover the basic of Power Bi)
 * Alternatively you can also download the pbix file and open it on your device
   
 ## How to Use Dashboards
